@@ -194,12 +194,12 @@ and play again!
 
 ---
 
+## Have Fun and git Good!
+
+---
+
 ## Disclaimer
 
 This README and the accompanying template were **written by Claude** (an AI
 assistant by Anthropic). The exercise concept is **Jon Chin's** own idea, and
 Jon critically reviews all generated content.
-
----
-
-## Have Fun and Git Good!
