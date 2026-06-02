@@ -15,7 +15,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [x] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ ] No   Q: 
+ 1. A: [ ] Yes  [ ] No   Q: Is it bigger than a bread box?
  2. A: [ ] Yes  [ ] No   Q: 
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [ ] Yes  [ ] No   Q: 
